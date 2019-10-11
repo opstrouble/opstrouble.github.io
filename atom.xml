@@ -2,34 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Ops</title>
   
-  
+  <subtitle>That&#39;s Life</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-11T14:37:36.579Z</updated>
+  <updated>2019-10-11T14:33:01.863Z</updated>
   <id>http://yoursite.com/</id>
   
-  <author>
-    <name>John Doe</name>
-    
-  </author>
-  
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>article title</title>
-    <link href="http://yoursite.com/2019/10/11/article-title/"/>
-    <id>http://yoursite.com/2019/10/11/article-title/</id>
-    <published>2019-10-11T14:37:36.000Z</published>
-    <updated>2019-10-11T14:37:36.579Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
